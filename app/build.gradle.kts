@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mad_23012011026_practical7"
+    namespace = "com.example.mad_23012011003_practical2"
     compileSdk = 36
 
     defaultConfig {

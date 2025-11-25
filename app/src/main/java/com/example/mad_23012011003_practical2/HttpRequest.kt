@@ -1,4 +1,4 @@
-package com.example.mad_23012011026_practical7
+package com.example.mad_23012011003_practical2
 
 import android.util.Log
 import java.io.BufferedReader
